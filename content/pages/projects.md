@@ -16,13 +16,117 @@ We will try to initiate the projects in the first few weeks of the term, then ha
 Recent Projects
 ---------------
 
-| YEARS | COMPANIES / PROJECTS | SUMMARIES |
-| --- | --- | --- |
-| 2013 | [Barefoot Power](http://www.barefootpower.com/) | Design of a reverse logistics supply chain for warranty support for solar lamps. |
-| &nbsp; | [Pure Home Water Filter](http://purehomewater.org/) | Distribution of water filters in Ghana, enabled by micro-financing. |
-| &nbsp; | [SolarClave](https://www.techxlab.org/solutions/innovations-in-international-health-solarclave-solar-autoclave) | Manufacturing and distributing a solar-powered autoclave, for use at health clinics in Nicaragua. |
-| 2012 | Crayons Supply Chain | Development of organic crayons from local ingredients to widen use of pigment to other applications such as artist supplies. |
-| &nbsp; | [Essmart](http://www.essmart-global.com/) | Essmart makes social impact technologies available in local retail shops so that they reach low-income end users. |
-| &nbsp; | LFC Supply Chain | Optimization of supply chain costs around the production of the Leveraged Freedom Chair to bring it from India to Guatemala. |
-| &nbsp; | Moringa Oil Supply Chain | Empowering farmers by providing them with affordable processing technology and connecting them to export markets for moringa oil. |
-| &nbsp; | Supply and Demand of Agricultural Waste Charcoal | To determine the optimal perimeters of agricultural waste charcoal production in rural Kenya, to match both supply and demand.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+YEARS
+{{< thclose >}}
+{{< thopen >}}
+COMPANIES / PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+SUMMARIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2013
+{{< tdclose >}}
+{{< tdopen >}}
+[Barefoot Power](http://www.barefootpower.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+Design of a reverse logistics supply chain for warranty support for solar lamps.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Pure Home Water Filter](http://purehomewater.org/)
+{{< tdclose >}}
+{{< tdopen >}}
+Distribution of water filters in Ghana, enabled by micro-financing.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[SolarClave](https://www.techxlab.org/solutions/innovations-in-international-health-solarclave-solar-autoclave)
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing and distributing a solar-powered autoclave, for use at health clinics in Nicaragua.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2012
+{{< tdclose >}}
+{{< tdopen >}}
+Crayons Supply Chain
+{{< tdclose >}}
+{{< tdopen >}}
+Development of organic crayons from local ingredients to widen use of pigment to other applications such as artist supplies.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Essmart](http://www.essmart-global.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+Essmart makes social impact technologies available in local retail shops so that they reach low-income end users.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+LFC Supply Chain
+{{< tdclose >}}
+{{< tdopen >}}
+Optimization of supply chain costs around the production of the Leveraged Freedom Chair to bring it from India to Guatemala.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Moringa Oil Supply Chain
+{{< tdclose >}}
+{{< tdopen >}}
+Empowering farmers by providing them with affordable processing technology and connecting them to export markets for moringa oil.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Supply and Demand of Agricultural Waste Charcoal
+{{< tdclose >}}
+{{< tdopen >}}
+To determine the optimal perimeters of agricultural waste charcoal production in rural Kenya, to match both supply and demand.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
