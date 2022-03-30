@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding Kenya mobile today.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-772j-d-lab-supply-chains-fall-2014/c7b885f936480fac585c18ff6cc24e68_MIT15_772JF14_KenyaToday.csv
 file_type: text/comma-separated-values
+parent_uid: 018e9898-1f4b-7421-3a5c-67dc7735ca78
 resourcetype: Other
 title: MIT15_772JF14_KenyaToday.csv
 uid: c7b885f9-3648-0fac-585c-18ff6cc24e68
